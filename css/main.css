@@ -21,6 +21,7 @@ body {
   padding: 0 1rem;
   background-color: #522806;
   border-bottom: .3rem solid #bea59b;
+  border-top: 0;
   color: #fff;
   font-size: 1.25rem;
 }
@@ -53,7 +54,9 @@ body {
   color: #fff;
   padding: .5em;
   border-radius: 1em;
+  background-color: #522806;
   text-decoration: none;
+  align-items: stretch;
 }
 
 .banner {
